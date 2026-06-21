@@ -74,7 +74,7 @@ if __name__ == "__main__":
 
 </div>
 
-
+![snake gif](https://github.com/srijit-2/srijit-2/blob/output/github-contribution-grid-snake.svg)
 
 
 ## 🎯 Current Focus
