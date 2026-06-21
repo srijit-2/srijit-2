@@ -70,23 +70,16 @@ if __name__ == "__main__":
 
 <div align="center">
 
-### 🚀 "Code. Lift. Repeat."
+### 💀 Eat • Sleep • Code • Lift • Repeat
 
 </div>
 
-```python
-class SrijitChatterjee:
 
-    def __init__(self):
-        self.name = "Srijit Chatterjee"
-        self.role = "Python & Web Developer"
-        self.learning =  ["JavaScript", "DOM", "Full Stack Development"]
-        self.country = "India 🇮🇳"
-        self.passion = "Coding & Building Projects"
 
-    def say_hi(self):
-        print("Thanks for visiting my profile 🚀")
 
-if __name__ == "__main__":
-    me = SrijitChatterjee()
-    me.say_hi()
+## 🎯 Current Focus
+
+- 🌱 Learning Full Stack Development
+- 💻 Practicing JavaScript & DOM
+- 🐍 Building Python Projects
+- 🏋️ Gym • Code • Repeat
