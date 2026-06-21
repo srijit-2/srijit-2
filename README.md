@@ -14,15 +14,59 @@
 
 ## 🧠 About Me
 
+---
+
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=srijit-2&theme=tokyonight)](https://git.io/streak-stats)
+
+---
+
+## 📊 GitHub Stats
+
+![Srijit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srijit-2&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srijit-2&layout=compact&theme=tokyonight)
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/srijit-2">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### 🚀 "Code. Lift. Repeat."
+
+</div>
+
 ```python
 class SrijitChatterjee:
 
     def __init__(self):
         self.name = "Srijit Chatterjee"
-        self.role = "Python Developer"
-        self.learning = "Full Stack Development"
+        self.role = "Python & Web Developer"
+        self.learning =  ["JavaScript", "DOM", "Full Stack Development"]
         self.country = "India 🇮🇳"
         self.passion = "Coding & Building Projects"
 
     def say_hi(self):
         print("Thanks for visiting my profile 🚀")
+
+if __name__ == "__main__":
+    me = SrijitChatterjee()
+    me.say_hi()
