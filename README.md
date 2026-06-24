@@ -88,10 +88,10 @@ if __name__ == "__main__":
 
 ![snake gif](https://github.com/srijit-2/srijit-2/blob/output/github-contribution-grid-snake.svg)
 
-### 👁‍🗨 Visitor Count
+### 👀 Profile Views
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/SwapnanilAdhikary/count.svg" alt="Profile Views Counter"/>
+  <img src="https://komarev.com/ghpvc/?username=srijit-2&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 
